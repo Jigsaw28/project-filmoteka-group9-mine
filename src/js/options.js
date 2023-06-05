@@ -1,8 +1,8 @@
-const API_KEY = '0b0c22042155193a7073ae89a4562c2a';
+const API_KEY = '9f234b00a323f5ab16274541e59c6da6';
 
 export const pathParams = {
   BASE_URL: 'https://api.themoviedb.org/3/',
-  API_KEY: '0b0c22042155193a7073ae89a4562c2a',
+  API_KEY: '9f234b00a323f5ab16274541e59c6da6',
   media_type: 'movie',
   time_window: 'week',
 
